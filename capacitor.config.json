@@ -1,0 +1,6 @@
+{
+  "appId": "com.myapp.webview",
+  "appName": "MyHTMLApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
